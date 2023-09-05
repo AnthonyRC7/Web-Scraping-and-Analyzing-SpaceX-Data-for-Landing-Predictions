@@ -14,7 +14,10 @@ In the vast sea of data, patterns, and insights await discovery. Armed with SQL 
 **4. Building Interactive Maps with Folium:**
 As I chart my course through the data, I employ the interactive capabilities of Folium to create dynamic maps. These maps serve as an invaluable tool for visualizing the geographic aspects of rocket landings. By mapping the locations of successful and unsuccessful landings, I gain spatial insights that contribute to my predictive analysis.
 
-**5. Predictive Analysis (Classification):**
+**5. Building an Interactive SpaceX Launch Records Dashboard:**
+Introducing the brainchild of my efforts: the Interactive SpaceX Launch Records Dashboard. This innovative platform provides a real-time window into SpaceX's launch history, complete with detailed statistics and mission insights. Dive into the fascinating world of space exploration, right at your fingertips.
+
+**6. Predictive Analysis (Classification):**
 The culmination of my journey is the predictive analysis phase. Armed with a refined dataset and a wealth of insights, I turn my attention to the core mission: predicting the success or failure of Falcon 9 first stage landings. I employ classification algorithms and machine learning techniques to build a predictive model. The model takes into account various parameters, such as weather conditions, mission details, and rocket specifications, to forecast the outcome of future landings.
 
 Through a rigorous process of training, testing, and validation, I refine my predictive model to maximize its accuracy and reliability. The success of this phase not only represents the culmination of my efforts but also has practical implications for SpaceX's mission success and cost-efficiency.
