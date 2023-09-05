@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 first stage Landing Prediction
+# SpaceX-Falcon-9-first-stage-Landing-Prediction
 
 In the vast expanse of space exploration, the successful landing of a rocket's first stage is a critical achievement. It not only saves valuable resources but also advances my understanding of reusability in space travel. The journey towards this goal is the focus of my Data Science Capstone Project, a comprehensive endeavor that involves various stages, each contributing to the overarching mission: predicting the successful landing of SpaceX's Falcon 9 first stage rockets.
 
